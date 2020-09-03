@@ -16,7 +16,7 @@
 9. [Session과 Cookie는 왜 필요한가?](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#Session과-Cookie는-왜-필요한가)        
 	- Session과 Cookie 차이    
 10. [CORS란?](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#CORS란)        
-11. [IP-VPN망 vs 인터넷 VPN](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#IP-VPN망-vs-인터넷-VPN        
+11. [IP-VPN망 vs 인터넷 VPN](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#ip-vpn망-vs-인터넷-vpn)        
     
 [뒤로](https://github.com/CodingStudyBy4/Interview/blob/master/README.md##--네트워크)
 
