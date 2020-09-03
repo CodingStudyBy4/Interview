@@ -1,11 +1,11 @@
 ﻿
 # 💡  Network
-1.  [HTTP와 HTTPS 차이](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md##HTTP와 HTTPS 차이)    
+1.  [HTTP와 HTTPS 차이](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#HTTP와-HTTPS-차이)    
 	- HTTP 의 문제점들    
-2.  [TCP란 무엇인가?] (https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md## TCP란 무엇인가?)        
+2.  [TCP란 무엇인가?] (https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#TCP란-무엇인가?)        
 	- TCP flag에 대해서 설명    
 	- 비연결성/연결성 프로토콜 설명    
-3.  [3-way handshaking이란?](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md## 3-way handshaking이란?)       
+3.  [3-way handshaking이란?](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#3-way-handshaking이란?)       
 4. [TCP와 UDP의 차이](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md##TCP와UDP의차이)         
 	- 두 프로토콜 활용 예    
 5. [주소창에 url 입력시 어떤 일이 일어나는가?](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md## 주소창에 url 입력시 어떤 일이 일어나는가?)        
