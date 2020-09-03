@@ -28,7 +28,7 @@
 9.  Session과 Cookie는 왜 필요한가?    
 	- Session과 Cookie 차이    
 10.  CORS란?    
-11.  IP-VPN망 vs인터넷 VPN    
+11.  IP-VPN망 vs 인터넷 VPN    
     
 [위로](##%20%F0%9F%93%9D%20%20Table%20of%20Contents)    
     
