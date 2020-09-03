@@ -2,7 +2,7 @@
 # 💡  Network
 1.  [HTTP와 HTTPS 차이](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#HTTP와-HTTPS-차이)    
 	- HTTP 의 문제점들    
-2.  [TCP란 무엇인가?] (https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#TCP란-무엇인가)        
+2.  [TCP란 무엇인가?] (https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#tcp란-무엇인가)        
 	- TCP flag에 대해서 설명    
 	- 비연결성/연결성 프로토콜 설명    
 3.  [3-way handshaking이란?](https://github.com/CodingStudyBy4/Interview/blob/master/Network/network.md#3-way-handshaking이란)       
