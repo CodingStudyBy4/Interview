@@ -32,7 +32,7 @@
     
 [위로](##%20%F0%9F%93%9D%20%20Table%20of%20Contents)    
     
-## 🔍 Only Question [Link] (https://github.com/CodingStudyBy4/Interview/blob/master/Question/question.md)
+## 🔍 Only Question [Link](https://github.com/CodingStudyBy4/Interview/blob/master/Question/question.md)
 질문 모아보기 
 
 [위로](##%20%F0%9F%93%9D%20%20Table%20of%20Contents)        
