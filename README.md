@@ -4,7 +4,7 @@
 [2주차] 데이터베이스    
 [3주차] 컴퓨터 구조 & OS     
 [4주차] 자료구조 & 알고리즘    
-[5주차] 언어, 프레임워크    
+[5주차] 언어, 프레임워크 [Link](https://github.com/CodingStudyBy4/Interview/blob/master/Language/language.md)
 [6주차] 분야별(백엔드)    
 [7주차] 개발상식    
 [8주차] 깃, 리눅스     
